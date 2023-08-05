@@ -1,4 +1,4 @@
-#Doing python coding for AdventOfcode. Belos is my 1st day coding 1st code. 
+#Doing python coding for AdventOfcode. Below is my 1st day coding 1st code. 
 #--- Day 1: Calorie Counting --- , https://adventofcode.com/2022/day/1
 #impyt downloaded from url : https://adventofcode.com/2022/day/1/input
 
